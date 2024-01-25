@@ -41,6 +41,6 @@ if __name__ == "__main__":
     exponents = [3, 3, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1]
     prime_tuples = list(zip(primes, exponents))
 
-    print(f"Answer n = {prime_product(prime_tuples)}")
+    print(f"Answer = {prime_product(prime_tuples)}")
     print(f"Elapsed time: {time.time() - start_time:.2f} seconds")
     
