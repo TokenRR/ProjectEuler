@@ -112,3 +112,4 @@ if __name__ == "__main__":
     start_time = time.time()
     print(f"Answer = {find_pandigital_fibonacci()}")
     print(f"Elapsed time: {time.time() - start_time:.2f} seconds")
+    
