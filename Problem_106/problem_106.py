@@ -38,3 +38,4 @@ if __name__ == "__main__":
     start_time = time.time()
     print(f"Answer = {calculate_subset_pairs(12)}")
     print(f"Elapsed time: {time.time() - start_time:.2f} seconds")
+    
