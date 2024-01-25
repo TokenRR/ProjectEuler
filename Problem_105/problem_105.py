@@ -67,3 +67,4 @@ if __name__ == "__main__":
     start_time = time.time()
     print(f"Answer = {compute_special_sum(read_file('Problem_105/0105_sets.txt'))}")
     print(f"Elapsed time: {time.time() - start_time:.2f} seconds")
+    
